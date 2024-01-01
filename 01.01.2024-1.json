@@ -1,0 +1,25 @@
+{
+    "name": "William Nielsen",
+    "age": 13,
+    "address": {
+        "street": "Jacob Crest",
+        "city": "Lake Lisa",
+        "state": "Alabama",
+        "zip": "29399"
+    },
+    "contact": {
+        "phone": "001-960-342-2846",
+        "servicePhone": "800543279"
+    },
+    "birthday": "2012-04-03",
+    "ip": "154.220.20.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview can power month research send end. Set building within lead real require. Kid evening building.\nFew adult five discussion. Appear second those never.",
+        "bio": "Claim base help enjoy down enjoy present. See political whose toward both. Offer choose city son local."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
