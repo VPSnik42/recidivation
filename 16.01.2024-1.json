@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Torres",
+    "age": 65,
+    "address": {
+        "street": "Haley Stravenue",
+        "city": "South Amandachester",
+        "state": "Maryland",
+        "zip": "19794"
+    },
+    "contact": {
+        "phone": "(524)474-4524x764",
+        "servicePhone": "800439996"
+    },
+    "birthday": "1960-10-08",
+    "ip": "207.254.147.208",
+    "foo": "bar",
+    "profile": {
+        "about": "American effect live. Role them entire when activity. Page receive final.\nRoad quickly and. Side point chair consumer network life. Hand two film force.",
+        "bio": "Move myself reveal someone. Situation process paper executive."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
