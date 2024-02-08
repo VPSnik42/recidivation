@@ -1,0 +1,25 @@
+{
+    "name": "Julie Holland",
+    "age": 2,
+    "address": {
+        "street": "Kimberly Square",
+        "city": "Chenton",
+        "state": "Georgia",
+        "zip": "69386"
+    },
+    "contact": {
+        "phone": "(280)907-1332x559",
+        "servicePhone": "800569097"
+    },
+    "birthday": "2023-11-05",
+    "ip": "24.132.5.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Question energy plant form.\nAudience sure tell. Final house authority include.",
+        "bio": "Test positive nothing name. Red personal suddenly employee certain force.\nDevelopment arrive morning others.\nBegin for such Mrs country home necessary real. Option cold item add."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
