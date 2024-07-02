@@ -1,0 +1,25 @@
+{
+    "name": "Erin Holloway",
+    "age": 97,
+    "address": {
+        "street": "Omar Village",
+        "city": "Nathanmouth",
+        "state": "North Dakota",
+        "zip": "52578"
+    },
+    "contact": {
+        "phone": "334.502.5871x088",
+        "servicePhone": "800053794"
+    },
+    "birthday": "1928-19-02",
+    "ip": "167.25.8.145",
+    "foo": "bar",
+    "profile": {
+        "about": "One smile example network civil enough generation work. Food serve require. Myself couple forget.",
+        "bio": "My scientist popular control for. Write start number together wind skin part. Pressure account staff."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
