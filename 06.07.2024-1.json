@@ -1,0 +1,25 @@
+{
+    "name": "Travis Harris",
+    "age": 41,
+    "address": {
+        "street": "Charles Parks",
+        "city": "Joyhaven",
+        "state": "New Jersey",
+        "zip": "29375"
+    },
+    "contact": {
+        "phone": "544-268-6807x2276",
+        "servicePhone": "800611624"
+    },
+    "birthday": "1984-07-02",
+    "ip": "74.20.27.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy with important player. Too draw half less painting bag trip pull. Clearly real to two give Democrat along win. Film across trip still most include sea.",
+        "bio": "Not dark responsibility seem husband station her. Six small onto employee vote research area measure.\nHot finish step. Finally strong structure trouble production. Direction stand north technology."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
