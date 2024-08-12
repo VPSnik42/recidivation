@@ -1,0 +1,25 @@
+{
+    "name": "Tamara White",
+    "age": 67,
+    "address": {
+        "street": "Johnson Avenue",
+        "city": "South Katrinafort",
+        "state": "Michigan",
+        "zip": "37355"
+    },
+    "contact": {
+        "phone": "528.302.0596",
+        "servicePhone": "800056933"
+    },
+    "birthday": "1958-11-06",
+    "ip": "120.243.251.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern range news possible south. Nothing gas day friend year before early skill. Mr treat too organization.\nRight once approach safe whom seem. Southern common financial civil impact area.",
+        "bio": "Apply friend run want wait develop happen. Investment include natural wide film.\nArgue call wonder theory book trip. Candidate visit white kitchen husband mention fish. Room race along feeling space."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
