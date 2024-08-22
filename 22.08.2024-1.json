@@ -1,0 +1,25 @@
+{
+    "name": "Michael Alvarado",
+    "age": 21,
+    "address": {
+        "street": "Cardenas Tunnel",
+        "city": "South Michael",
+        "state": "New York",
+        "zip": "21059"
+    },
+    "contact": {
+        "phone": "629-314-8831",
+        "servicePhone": "800847925"
+    },
+    "birthday": "2004-06-11",
+    "ip": "185.142.183.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental not likely tell whatever memory right. Choose learn large court.\nSingle call race after nor imagine cold. Within approach back. Cost instead very education fire need.",
+        "bio": "Ahead inside or indicate expert. Leg treat officer candidate eat."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
