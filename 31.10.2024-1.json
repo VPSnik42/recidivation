@@ -1,0 +1,25 @@
+{
+    "name": "Monica Johnston",
+    "age": 71,
+    "address": {
+        "street": "Stacy Trail",
+        "city": "Port Williamhaven",
+        "state": "Oregon",
+        "zip": "45567"
+    },
+    "contact": {
+        "phone": "261.778.0034",
+        "servicePhone": "800992422"
+    },
+    "birthday": "1954-26-03",
+    "ip": "20.223.197.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven security reveal TV reveal use catch.\nCold order outside. Never worker turn policy.\nSummer hour sea project suddenly. Staff new offer most drive forward.",
+        "bio": "Six together which seven. Check camera knowledge force. Develop determine southern newspaper."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
