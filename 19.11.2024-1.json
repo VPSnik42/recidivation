@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Brown",
+    "age": 46,
+    "address": {
+        "street": "Riley Bypass",
+        "city": "South Shannonside",
+        "state": "South Carolina",
+        "zip": "46522"
+    },
+    "contact": {
+        "phone": "5308604484",
+        "servicePhone": "800396695"
+    },
+    "birthday": "1979-03-06",
+    "ip": "32.89.46.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Drive affect really world herself.\nEdge computer behind total themselves American.\nValue miss charge technology financial. Hold direction the face strategy check.",
+        "bio": "Actually choice any toward loss religious western full. Understand certainly clear late politics.\nHundred improve then either reveal rate show."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
