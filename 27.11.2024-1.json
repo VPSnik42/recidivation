@@ -1,0 +1,25 @@
+{
+    "name": "Diana Campbell",
+    "age": 6,
+    "address": {
+        "street": "Miranda Crossroad",
+        "city": "Kellerfort",
+        "state": "Maryland",
+        "zip": "42890"
+    },
+    "contact": {
+        "phone": "824.746.7944",
+        "servicePhone": "800356682"
+    },
+    "birthday": "2019-31-07",
+    "ip": "20.106.85.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar care mind cup. Minute half standard speech nearly.\nLeave black today begin push family any trouble.",
+        "bio": "Face where house be participant indeed score. Own movement investment true lose avoid."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
