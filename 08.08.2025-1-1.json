@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Clark",
+    "age": 80,
+    "address": {
+        "street": "Amy Views",
+        "city": "Bowentown",
+        "state": "New Jersey",
+        "zip": "94820"
+    },
+    "contact": {
+        "phone": "(503)505-9320x422",
+        "servicePhone": "800104723"
+    },
+    "birthday": "1945-01-10",
+    "ip": "14.139.200.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer various identify factor. Dog fish rule. Difference artist field.\nProduce treatment design environmental environment. Price wide shoulder style crime. She charge doctor consider.",
+        "bio": "Green how deep deal front wall set movie. Off Democrat across. Memory already fish local else. Generation prevent parent.\nFriend another amount weight test strategy travel."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
