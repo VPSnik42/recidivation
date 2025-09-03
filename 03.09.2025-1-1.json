@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Robert Whitehead",
+    "age": 34,
+    "address": {
+        "street": "Hughes Ports",
+        "city": "Roblesstad",
+        "state": "Maine",
+        "zip": "85303"
+    },
+    "contact": {
+        "phone": "(416)772-4285x93174",
+        "servicePhone": "800696778"
+    },
+    "birthday": "1991-19-12",
+    "ip": "196.115.171.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Field rate book none eight green suddenly degree. Practice interest run win bar now economic. Specific without probably training top technology concern compare.",
+        "bio": "Owner begin white push. Could call feel act position strong year start.\nAble education focus once from. Area late strong thought."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
