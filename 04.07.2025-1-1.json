@@ -1,0 +1,25 @@
+{
+    "name": "Michael Adams",
+    "age": 25,
+    "address": {
+        "street": "Donald Vista",
+        "city": "West Josephburgh",
+        "state": "South Carolina",
+        "zip": "29671"
+    },
+    "contact": {
+        "phone": "903-844-9933",
+        "servicePhone": "800205078"
+    },
+    "birthday": "2000-18-07",
+    "ip": "52.11.220.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly he choice traditional. Crime who institution story. Long scene environmental what someone follow left along.\nStyle away lot knowledge job company scientist most.",
+        "bio": "Drive seek from customer red school. Local amount behind future provide station. Standard clearly occur drop by science tonight."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

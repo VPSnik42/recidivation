@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Conner",
+    "age": 2,
+    "address": {
+        "street": "Johnston Greens",
+        "city": "West Alisontown",
+        "state": "Illinois",
+        "zip": "04314"
+    },
+    "contact": {
+        "phone": "559.890.7620x053",
+        "servicePhone": "800649549"
+    },
+    "birthday": "2023-10-02",
+    "ip": "45.157.62.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Find see these action. Fine vote by.\nWould issue authority live. Something man just always. Particularly can general whose again trial region.\nGeneration agree true after lay cost cultural.",
+        "bio": "Road sound history how same table quickly. Figure would pick involve late.\nWestern such approach west maintain."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
