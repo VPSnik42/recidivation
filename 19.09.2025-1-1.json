@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Kerr",
+    "age": 114,
+    "address": {
+        "street": "Wright Meadow",
+        "city": "West Sabrina",
+        "state": "Washington",
+        "zip": "87580"
+    },
+    "contact": {
+        "phone": "(776)679-8679x562",
+        "servicePhone": "800618429"
+    },
+    "birthday": "1911-03-04",
+    "ip": "30.6.70.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Into weight wish surface society. Prevent cut present no ahead. Newspaper economy she impact. Difference follow early mouth figure.\nAdmit fall reveal size light customer.",
+        "bio": "Build foreign finish provide population page particular. Green eye investment half.\nStart of growth relationship. Push do medical during defense. Represent anything board statement begin."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
