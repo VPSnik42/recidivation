@@ -1,0 +1,25 @@
+{
+    "name": "Richard Webb",
+    "age": 111,
+    "address": {
+        "street": "Patricia Wells",
+        "city": "Dianashire",
+        "state": "Montana",
+        "zip": "99562"
+    },
+    "contact": {
+        "phone": "889.818.2150x6434",
+        "servicePhone": "800745458"
+    },
+    "birthday": "1914-05-11",
+    "ip": "24.103.122.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Now despite thus experience want politics. Second lose poor significant off begin. Stay need discussion note guess laugh property treatment. Write animal affect on happy head material.",
+        "bio": "Know question cause vote turn way. Easy stock dinner. Experience nice evidence language teacher full edge.\nSmall so they food far air rule nor. Say pick event also."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

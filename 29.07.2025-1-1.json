@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Mcgee",
+    "age": 37,
+    "address": {
+        "street": "Thomas Villages",
+        "city": "East April",
+        "state": "Oregon",
+        "zip": "66436"
+    },
+    "contact": {
+        "phone": "899.220.9523x2828",
+        "servicePhone": "800434324"
+    },
+    "birthday": "1988-03-12",
+    "ip": "48.124.218.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Thousand base couple drive knowledge respond. Because many religious.\nMedia mean understand list admit after.\nJoin visit down sit best.",
+        "bio": "Perform truth style keep. Several time put head factor blood guess.\nTough table husband opportunity son what. Bed management eat. Rise this appear learn word."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
