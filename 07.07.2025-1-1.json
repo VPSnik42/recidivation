@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Burton",
+    "age": 72,
+    "address": {
+        "street": "Christopher Flats",
+        "city": "Nicoletown",
+        "state": "North Carolina",
+        "zip": "12696"
+    },
+    "contact": {
+        "phone": "001-368-330-2408x56877",
+        "servicePhone": "800904042"
+    },
+    "birthday": "1953-17-02",
+    "ip": "147.105.252.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech wall scientist answer man hour. Type southern listen. Public get most white.\nRange green morning sure Congress here lawyer cold. Month offer style energy represent well.",
+        "bio": "Small knowledge parent be body other include. Nature owner apply billion remain specific.\nSpecial nature student last program PM. Voice prepare field leader actually lot few."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

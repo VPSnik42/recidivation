@@ -1,0 +1,25 @@
+{
+    "name": "Jose Miller",
+    "age": 74,
+    "address": {
+        "street": "Virginia Land",
+        "city": "South Anthonymouth",
+        "state": "North Carolina",
+        "zip": "31649"
+    },
+    "contact": {
+        "phone": "001-511-780-7350x697",
+        "servicePhone": "800026727"
+    },
+    "birthday": "1951-27-07",
+    "ip": "186.100.96.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain issue win manage create. Give value want speak any lead benefit. Time simple position suggest economy.",
+        "bio": "Institution site wait determine. Interview onto may history near song. Good pattern fund season might father apply.\nDesign work American in. Interview difference voice her prove last another."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
