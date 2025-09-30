@@ -1,0 +1,25 @@
+{
+    "name": "John Perry",
+    "age": 67,
+    "address": {
+        "street": "Julia Vista",
+        "city": "Kellyton",
+        "state": "New Jersey",
+        "zip": "44381"
+    },
+    "contact": {
+        "phone": "+1-683-244-7764x9518",
+        "servicePhone": "800606980"
+    },
+    "birthday": "1958-13-02",
+    "ip": "32.125.205.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Because knowledge phone national actually simply artist city. Head challenge control speak Mr daughter.\nWithin give yes within middle Democrat. Anyone model successful.",
+        "bio": "Throughout new employee. Law bad world rise physical beautiful.\nArrive everything lose manage there. Success throw other which report far. Congress sing stock my foreign budget."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
