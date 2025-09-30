@@ -1,0 +1,25 @@
+{
+    "name": "Brian Stout",
+    "age": 8,
+    "address": {
+        "street": "Sean Meadow",
+        "city": "Jaimeville",
+        "state": "Kansas",
+        "zip": "21328"
+    },
+    "contact": {
+        "phone": "(764)922-6718x9712",
+        "servicePhone": "800515262"
+    },
+    "birthday": "2017-17-09",
+    "ip": "78.193.231.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear soon onto science.\nDevelopment fight level seem task join. Require manager writer country.\nForm since clear page growth view. Course usually involve simple note.",
+        "bio": "Parent choice large page. Usually some bit. Bed herself sign already race. Yet truth heart capital quite sit part.\nTable seat evening live.\nMan for west hot example. Nearly Mrs late."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
